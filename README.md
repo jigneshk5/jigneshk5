@@ -13,3 +13,6 @@
 - 📫 How to reach me: ...
 > Email me : jigneh78bmw@gmail.com
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jigneshk5)](https://github.com/jigneshk5)
+
+
