@@ -11,7 +11,7 @@
 > Technology: Angular, Node.JS/Express, MongoDB/Mongoose , MySQL/Sequlize, Postgres/Sequlize, Sqlite, InfluxDB, Grafana, Vue
 
 - 📫 How to reach me: ...
-> Email me : jigneh78bmw@gmail.com
+> Email me : jignesh78bmw@gmail.com or info@geekpoint.in
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jigneshk5)](https://github.com/jigneshk5)
 
